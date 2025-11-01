@@ -10,7 +10,7 @@ proxy-providers:
       interval: 300
     proxy: 直连
   Airport2:
-    url: "此处粘贴机场订阅链接地址（clash订阅链接）"
+    url: "https://dingyue03.09123316.xyz/c/7"
     type: http
     interval: 86400
     health-check:
